@@ -1,0 +1,4 @@
+CHANGED,C:\Users\pxx\Desktop\SlideItem-master\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lw\widget\slideitem\TextVH$override.class
+CHANGED,C:\Users\pxx\Desktop\SlideItem-master\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lw\widget\slideitem\SlideItemAdapter$1$override.class
+CHANGED,C:\Users\pxx\Desktop\SlideItem-master\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\pxx\Desktop\SlideItem-master\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lw\widget\slideitem\SlideItemAdapter$override.class

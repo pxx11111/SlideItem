@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/search"
+        app:actionViewClass="android.widget.SearchView"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:title="搜索"/>
+    />
+</menu>
